@@ -5,10 +5,11 @@ Olá! Meu nome é Matheus Marcomini e sou um desenvolvedor iniciante apaixonado 
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <img alt="Cartão de Visitas Matheus" src="./Assets/Cartão de Visitas.png" width="100%">
+</p>
+
+<p align="center">
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 
 ## 🚀 Tecnologias
 
