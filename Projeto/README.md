@@ -21,4 +21,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Cartão de visitas Matheus Marcomini online.
+Projeto desenvolvido para Cartão de visitas e Apresentação de Matheus Marcomini online.
